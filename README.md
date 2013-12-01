@@ -6,7 +6,7 @@ Eight Queen Solutions
 Prerequisites
 -------------
 
-CMake    Project uses [CMake][http://www.cmake.org/] as the build system.
+__CMake__  -  Project uses [CMake](http://www.cmake.org/) as the build system.
 
 
 Build
